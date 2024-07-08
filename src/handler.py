@@ -10,7 +10,7 @@ INPUT_SCHEMA = {
     "sequence": {"type": str, "required": True},
     "labels": {
         "type": list,
-        "required": True,
+        "required": False,
     },
 }
 
